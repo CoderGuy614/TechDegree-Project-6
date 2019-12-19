@@ -1,18 +1,18 @@
 const express = require("express");
-const {data} = require('data.json');
-
 const app = express();
+const routes = require('./routes');
+const errorHandlers = require('./errorHandlers');
+
 app.set('view engine', 'pug');
 
-app.use(express.static('public'))
 
-app.get('/', function (req, res) {
-    res.render('index')
-  })
 
-app.get('/about', function (req, res) {
-    res.render('about')
-  })
+app.use('/static', express.static('public'));
+app.use('/images', express.static('images'));
+app.use(routes);
+app.use(errorHandlers.errorHandler404);
+app.use(errorHandlers.handleGlobalError);
+
 
 
 

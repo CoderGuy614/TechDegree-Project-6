@@ -1,16 +1,10 @@
 { "projects": [
-    
     {"id": 1,
      "project_name": "Random Quote Generator",
      "description": "This app displays a random quote each time the button is clicked.",
      "technologies": "Javascript, HTML, CSS",
      "live_link": "",
      "github_link": "",
-     "image_urls": ["/Images/project_1_1.png"]
-    },
-
-
-
-    {},
-    {}
+     "image_urls": ["/images/project_1_1.png"]
+    }
 ]}
