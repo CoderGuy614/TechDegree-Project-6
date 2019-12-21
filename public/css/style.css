@@ -148,3 +148,27 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+.icons{
+  margin: 3px;
+  padding: 3px
+}
+.column {
+  float: left;
+  width: 33.3%;
+  padding: 0px;
+  text-align:center;
+  height:100%;
+
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.space {
+  margin-top: 75px;
+  text-align: center;
+  color: #666;
+  justify-content: center;
+}
