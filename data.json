@@ -3,8 +3,8 @@
      "project_name": "Random Quote Generator",
      "description": "This app displays a random quote and changes color each time the button is clicked or 5 seconds passes.",
      "technologies": ["Javascript", "HTML", "CSS"],
-     "live_link": "",
-     "github_link": "https://coderguy614.github.io/TechDegree-Project-1/",
+     "live_link": "https://coderguy614.github.io/TechDegree-Project-1",
+     "github_link": "https://github.com/CoderGuy614/TechDegree-Project-1",
      "image_urls": ["/images/project_1_1.jpg"]
     },
 
@@ -12,7 +12,7 @@
         "project_name": "List Search and Pagination",
         "description": "This app allows the user to search a list of names and paginates the search results",
         "technologies": ["Javascript", "HTML", "CSS"],
-        "live_link": "",
+        "live_link": "https://coderguy614.github.io/TechDegree-Project-2",
         "github_link": "https://github.com/CoderGuy614/TechDegree-Project-2",
         "image_urls": ["/images/project_2_1.jpg"]
        },
@@ -21,7 +21,7 @@
     "project_name": "Form Validation",
     "description": "This app checks form inputs for validity and notifies the user of any invalid entries",
     "technologies": ["Javascript", "HTML", "CSS"],
-    "live_link": "",
+    "live_link": "https://coderguy614.github.io/TechDegree-Project-3",
     "github_link": "https://github.com/CoderGuy614/TechDegree-Project-3",
     "image_urls": ["/images/project_3_1.jpg"]
     },
@@ -30,7 +30,7 @@
         "project_name": "Phrase Hunter Game",
         "description": "This app checks form inputs for validity and notifies the user of any invalid entries",
         "technologies": ["Javascript", "HTML", "CSS"],
-        "live_link": "",
+        "live_link": "https://coderguy614.github.io/TechDegree-Project-4",
         "github_link": "https://github.com/CoderGuy614/TechDegree-Project-4",
         "image_urls": ["/images/project_4_1.jpg"]
         },
@@ -39,9 +39,17 @@
         "project_name": "API Random User Data Directory",
         "description": "This app checks form inputs for validity and notifies the user of any invalid entries",
         "technologies": ["Javascript", "HTML", "CSS"],
-        "live_link": "",
+        "live_link": "https://coderguy614.github.io/TechDegree-Project-5",
         "github_link": "https://github.com/CoderGuy614/TechDegree-Project-5",
         "image_urls": ["/images/project_5_1.jpg"]
+        },
+    {"id": 6,
+        "project_name": "JavaScript 4-In-A-Row Game",
+        "description": "A Classic Game, programmed in JavaScript",
+        "technologies": ["Javascript", "HTML", "CSS"],
+        "live_link": "https://coderguy614.github.io/FourInARowGame/",
+        "github_link": "https://github.com/CoderGuy614/FourInARowGame",
+        "image_urls": ["/images/project_6_1.jpg"]
         }
     
 ]}
