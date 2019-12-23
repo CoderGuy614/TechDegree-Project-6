@@ -10,7 +10,7 @@
 
     {"id": 2,
         "project_name": "List Search and Pagination",
-        "description": "This app allows the user to search a list of names and paginates the search results",
+        "description": "This app allows the user to search a list of names and paginates the search results.  Page links are generated based on the number of search results.",
         "technologies": ["Javascript", "HTML", "CSS"],
         "live_link": "https://coderguy614.github.io/TechDegree-Project-2",
         "github_link": "https://github.com/CoderGuy614/TechDegree-Project-2",
@@ -19,7 +19,7 @@
 
     {"id": 3,
     "project_name": "Form Validation",
-    "description": "This app checks form inputs for validity and notifies the user of any invalid entries",
+    "description": "This app checks form inputs for validity and notifies the user of any invalid entries.",
     "technologies": ["Javascript", "HTML", "CSS"],
     "live_link": "https://coderguy614.github.io/TechDegree-Project-3",
     "github_link": "https://github.com/CoderGuy614/TechDegree-Project-3",
@@ -28,7 +28,7 @@
 
     {"id": 4,
         "project_name": "Phrase Hunter Game",
-        "description": "This app checks form inputs for validity and notifies the user of any invalid entries",
+        "description": "A fun word puzzle game.  Try to guess the phrase before you run out of hearts.",
         "technologies": ["Javascript", "HTML", "CSS"],
         "live_link": "https://coderguy614.github.io/TechDegree-Project-4",
         "github_link": "https://github.com/CoderGuy614/TechDegree-Project-4",
@@ -36,8 +36,8 @@
         },
 
     {"id": 5,
-        "project_name": "API Random User Data Directory",
-        "description": "This app checks form inputs for validity and notifies the user of any invalid entries",
+        "project_name": "API User Data Directory",
+        "description": "This app requests data from a random user API and returns data for 12 users. It then populates a directory which contains the formatted data about each user.",
         "technologies": ["Javascript", "HTML", "CSS"],
         "live_link": "https://coderguy614.github.io/TechDegree-Project-5",
         "github_link": "https://github.com/CoderGuy614/TechDegree-Project-5",

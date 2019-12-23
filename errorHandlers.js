@@ -3,16 +3,14 @@ const errorHandler404 = ((req, res, next) => {
     console.log('Handling 404 error');
     const err = new Error('err');
     err.status = 404;
-    err.message = 'Whoopsie!  This page does not exist!';
+    err.message = 'Oopsie!  This page does not exist!';
     next(err);
   });
   
   // Global error handler
  const handleGlobalError = ((err, req, res, next) => {
-    console.log('Handling a global error');
-    console.log(err);
-    res.locals.message = err.message;
-    res.send(err.message);
+    res.locals.error = err
+    res.render('error', err);
   });
 
   module.exports = {errorHandler404, handleGlobalError};
