@@ -14,9 +14,9 @@ app.use(errorHandlers.errorHandler404);
 app.use(errorHandlers.handleGlobalError);
 
 // Starting the server
-app.listen(3000, () => {
-    console.log("The application is running on localhost 3000")
-})
-var port = process.env.PORT
+// app.listen(3000, () => {
+//     console.log("The application is running on localhost 3000")
+// })
+var port = process.env.PORT || 3000
 
 
