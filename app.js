@@ -1,4 +1,3 @@
-var port = process.env.PORT || 3000
 // Importing the components of the app
 const express = require("express");
 const app = express();
@@ -14,6 +13,7 @@ app.use(routes);
 app.use(errorHandlers.errorHandler404);
 app.use(errorHandlers.handleGlobalError);
 
+var port = process.env.PORT || 3000
 // Starting the server
 app.listen(3000, () => {
     console.log("The application is running on localhost 3000")
