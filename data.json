@@ -37,7 +37,7 @@
 
     {"id": 5,
         "project_name": "API User Data Directory",
-        "description": "This app requests data from a random user API and returns data for 12 users. It then populates a directory which contains the formatted data about each user.",
+        "description": "This app requests data from a random user data API and returns data for 12 users. It then populates a directory which contains the formatted data about each user.",
         "technologies": ["Javascript", "HTML", "CSS"],
         "live_link": "https://coderguy614.github.io/TechDegree-Project-5",
         "github_link": "https://github.com/CoderGuy614/TechDegree-Project-5",
