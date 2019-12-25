@@ -45,7 +45,7 @@
         },
     {"id": 6,
         "project_name": "JavaScript 4-In-A-Row Game",
-        "description": "A Classic Game, programmed in JavaScript",
+        "description": "A classic game, programmed in JavaScript",
         "technologies": ["Javascript", "HTML", "CSS"],
         "live_link": "https://coderguy614.github.io/FourInARowGame/",
         "github_link": "https://github.com/CoderGuy614/FourInARowGame",
