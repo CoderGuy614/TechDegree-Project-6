@@ -50,6 +50,14 @@
         "live_link": "https://coderguy614.github.io/FourInARowGame/",
         "github_link": "https://github.com/CoderGuy614/FourInARowGame",
         "image_urls": ["/images/project_6_1.jpg"]
+        },
+    {"id": 7,
+        "project_name": "React Photo Gallery App",
+        "description": "This app uses the Flickr API to fetch photos of a chosen keyword",
+        "technologies": ["Javascript", "HTML", "CSS", "React"],
+        "live_link": "https://coderguy614.github.io/TechDegree-Project-7/",
+        "github_link": "https://github.com/CoderGuy614/TechDegree-project-7",
+        "image_urls": ["/images/project_6_1.jpg"]
         }
     
 ]}
