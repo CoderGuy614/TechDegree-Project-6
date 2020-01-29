@@ -58,6 +58,14 @@
         "live_link": "https://coderguy614.github.io/TechDegree-Project-7/",
         "github_link": "https://github.com/CoderGuy614/TechDegree-project-7",
         "image_urls": ["/images/project_7_1.jpg"]
+        },
+    {"id": 8,
+        "project_name": "SQL Library Database",
+        "description": "Sequelize SQL ORM is used to create, edit, and delete books in a library database",
+        "technologies": ["Javascript", "HTML", "CSS", "Sequelize", "Express", "NodeJS", "Pug"],
+        "live_link": "https://sql-library-database.herokuapp.com",
+        "github_link": "https://github.com/CoderGuy614/TechDegree-Project-8",
+        "image_urls": ["/images/project_8_1.jpg"]
         }
     
 ]}
