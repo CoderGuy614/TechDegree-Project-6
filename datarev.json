@@ -1,0 +1,93 @@
+{
+  "projects": [
+    {
+      "id": 9,
+      "project_name": "To-Do List",
+      "description": "This App stores data in a MongoDB database and uses ReactJS for the user interface",
+      "technologies": ["ReactJS", "MongoDB", "Express", "NodeJS"],
+      "live_link": "https://todo-list-jonathanlutz.herokuapp.com",
+      "github_link": "https://github.com/CoderGuy614/03-todo-list-api",
+      "image_urls": ["/images/project_9_1.jpg"]
+    },
+    {
+      "id": 8,
+      "project_name": "SQL Library Database",
+      "description": "Sequelize SQL ORM is used to create, edit, and delete books in a library database",
+      "technologies": [
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Sequelize",
+        "Express",
+        "NodeJS",
+        "Pug"
+      ],
+      "live_link": "https://sql-library-database.herokuapp.com",
+      "github_link": "https://github.com/CoderGuy614/TechDegree-Project-8",
+      "image_urls": ["/images/project_8_1.jpg"]
+    },
+    {
+      "id": 7,
+      "project_name": "React Photo Gallery App",
+      "description": "Built with React components, this app uses the Flickr API to fetch photos of a chosen keyword",
+      "technologies": ["Javascript", "HTML", "CSS", "React"],
+      "live_link": "https://coderguy614.github.io/TechDegree-Project-7/",
+      "github_link": "https://github.com/CoderGuy614/TechDegree-project-7",
+      "image_urls": ["/images/project_7_1.jpg"]
+    },
+    {
+      "id": 6,
+      "project_name": "JavaScript 4-In-A-Row Game",
+      "description": "A classic game, programmed in JavaScript",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "https://coderguy614.github.io/FourInARowGame/",
+      "github_link": "https://github.com/CoderGuy614/FourInARowGame",
+      "image_urls": ["/images/project_6_1.jpg"]
+    },
+    {
+      "id": 5,
+      "project_name": "API User Data Directory",
+      "description": "This app requests data from a random user data API and returns data for 12 users. It then populates a directory which contains the formatted data about each user.",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "https://coderguy614.github.io/TechDegree-Project-5",
+      "github_link": "https://github.com/CoderGuy614/TechDegree-Project-5",
+      "image_urls": ["/images/project_5_1.jpg"]
+    },
+    {
+      "id": 4,
+      "project_name": "Phrase Hunter Game",
+      "description": "A fun word puzzle game.  Try to guess the phrase before you run out of hearts.",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "https://coderguy614.github.io/TechDegree-Project-4",
+      "github_link": "https://github.com/CoderGuy614/TechDegree-Project-4",
+      "image_urls": ["/images/project_4_1.jpg"]
+    },
+    {
+      "id": 3,
+      "project_name": "Form Validation",
+      "description": "This app checks form inputs for validity and notifies the user of any invalid entries.",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "https://coderguy614.github.io/TechDegree-Project-3",
+      "github_link": "https://github.com/CoderGuy614/TechDegree-Project-3",
+      "image_urls": ["/images/project_3_1.jpg"]
+    },
+    {
+      "id": 2,
+      "project_name": "List Search and Pagination",
+      "description": "This app allows the user to search a list of names and paginates the search results.  Page links are generated based on the number of search results.",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "https://coderguy614.github.io/TechDegree-Project-2",
+      "github_link": "https://github.com/CoderGuy614/TechDegree-Project-2",
+      "image_urls": ["/images/project_2_1.jpg"]
+    },
+    {
+      "id": 1,
+      "project_name": "Random Quote Generator",
+      "description": "This app displays a random quote and changes color each time the button is clicked or 5 seconds passes.",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "https://coderguy614.github.io/TechDegree-Project-1",
+      "github_link": "https://github.com/CoderGuy614/TechDegree-Project-1",
+      "image_urls": ["/images/project_1_1.jpg"]
+    }
+  ]
+}
