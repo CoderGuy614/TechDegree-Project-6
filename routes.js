@@ -4,7 +4,7 @@ const router = express.Router();
 const { projects } = require("./datarev.json");
 //Renders the index page
 router.get("/", function(req, res) {
-  res.render("index", { projects: projects.reverse() });
+  res.render("index", { projects });
 });
 // Renders the about page template
 router.get("/about", function(req, res) {
