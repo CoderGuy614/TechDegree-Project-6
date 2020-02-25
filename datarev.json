@@ -1,6 +1,15 @@
 {
   "projects": [
     {
+      "id": 10,
+      "project_name": "AirBnB Clone",
+      "description": "This AirBnB replica app pulls data from MongoDB to populate a React front end.  Users can filter and search the properties, or click them to view more photos and details.",
+      "technologies": ["ReactJS", "MongoDB", "Express", "NodeJS"],
+      "live_link": "https://airbnb-client-jonnylutz.herokuapp.com/",
+      "github_link": "https://github.com/CoderGuy614/04-airbnb-client",
+      "image_urls": ["/images/project_10_1.jpg"]
+    },
+    {
       "id": 9,
       "project_name": "To-Do List",
       "description": "This App stores data in a MongoDB database and uses ReactJS for the user interface",
