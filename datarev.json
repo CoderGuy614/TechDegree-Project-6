@@ -1,6 +1,15 @@
 {
   "projects": [
     {
+      "id": 11,
+      "project_name": "Slack Clone",
+      "description": "This Slack replica has user authentication built in.  It stores user and message data in a MongoDB cloud database. The user interface was built using ReactJS.",
+      "technologies": ["ReactJS", "MongoDB", "Express", "NodeJS"],
+      "live_link": "https://slack-client-jlutz.herokuapp.com/",
+      "github_link": "https://github.com/CoderGuy614/06-Slack-Client",
+      "image_urls": ["/images/project_11_1.jpg"]
+    },
+    {
       "id": 10,
       "project_name": "AirBnB Clone",
       "description": "This AirBnB replica app pulls data from MongoDB to populate a React front end.  Users can filter and search the properties, or click them to view more photos and details.",
