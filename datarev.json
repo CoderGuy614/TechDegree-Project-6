@@ -1,9 +1,18 @@
 {
   "projects": [
     {
+      "id": 12,
+      "project_name": "Deliveroo Clone",
+      "description": "This app allows users to view and sort a list of restaurants based on criteria such as price and delivery time.  Each restaurant links to a menu page, where users can add items to their cart and view the total price before ordering. Data is served by MongoDB and the UI is built with ReactJS.",
+      "technologies": ["ReactJS", "MongoDB", "Express", "NodeJS"],
+      "live_link": "https://deliveroo-client-jlutz.herokuapp.com/",
+      "github_link": "https://github.com/CoderGuy614/deliveroo-client",
+      "image_urls": ["/images/project_12_1.jpg"]
+    },
+    {
       "id": 11,
       "project_name": "Slack Clone",
-      "description": "This Slack replica has user authentication built in.  It stores user and message data in a MongoDB cloud database. The user interface was built using ReactJS.",
+      "description": "This Slack replica has user authentication built in. It uses Cloudinary to host and serve uploaded files such as images.  User and message data is stored in a MongoDB cloud database. The user interface was built using ReactJS.",
       "technologies": ["ReactJS", "MongoDB", "Express", "NodeJS"],
       "live_link": "https://slack-client-jlutz.herokuapp.com/",
       "github_link": "https://github.com/CoderGuy614/06-Slack-Client",
