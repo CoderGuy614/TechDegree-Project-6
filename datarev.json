@@ -14,7 +14,7 @@
       "project_name": "Slack Clone",
       "description": "This Slack replica has user authentication built in. It uses Cloudinary to host and serve uploaded files such as images.  User and message data is stored in a MongoDB cloud database. The user interface was built using ReactJS.",
       "technologies": ["ReactJS", "MongoDB", "Express", "NodeJS"],
-      "live_link": "https://slack-client-jlutz.herokuapp.com/login",
+      "live_link": "https://slack-client-jlutz.herokuapp.com/signup",
       "github_link": "https://github.com/CoderGuy614/06-Slack-Client",
       "image_urls": ["/images/project_11_1.jpg"]
     },
