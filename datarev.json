@@ -1,6 +1,17 @@
 {
   "projects": [
     {
+      "id": 13,
+      "project_name": "Spotify Clone",
+      "description": "A music player, complete with integrated credit card payment using Stripe API.  Users can sort songs by artist, genre or album and song data is stored in an SQL database.",
+      "technologies": ["ReactJS", "MySQL", "Express", "NodeJS"],
+      "live_link": "http://spotify-client-jlutz.herokuapp.com/",
+      "github_link": "https://github.com/CoderGuy614/07-Spotify-Client",
+      "image_urls": ["/images/project_13_1.jpg"]
+    },
+{
+  "projects": [
+    {
       "id": 12,
       "project_name": "Deliveroo Clone",
       "description": "This app allows users to view and sort a list of restaurants based on criteria such as price and delivery time.  Each restaurant links to a menu page, where users can add items to their cart and view the total price before ordering. Data is served by MongoDB and the UI is built with ReactJS.",
