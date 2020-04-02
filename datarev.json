@@ -1,15 +1,6 @@
 {
   "projects": [
     {
-      "id": 14,
-      "project_name": "Online Course Catalog w/ user authentication",
-      "description": "This project uses basic auth to allow users to create an account, sign in, and sign out.  Users can post a new course, as well as edit and delete their own courses.  Certain API routes are protected to prevent unauthorized users from modifying data that doesn't belong to them.",
-      "technologies": ["ReactJS", "Express", "NodeJS"],
-      "live_link": "http://spotify-client-jlutz.herokuapp.com/",
-      "github_link": "https://github.com/CoderGuy614/07-Spotify-Client",
-      "image_urls": ["/images/project_13_1.jpg"]
-    },
-    {
       "id": 13,
       "project_name": "Spotify Clone",
       "description": "A music player, complete with integrated credit card payment using Stripe API.  Users can sort songs by artist, genre or album and song data is stored in an SQL database.",
