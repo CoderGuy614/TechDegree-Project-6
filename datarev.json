@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": 13,
-      "project_name": "Spotify Clone",
-      "description": "A music player, complete with integrated credit card payment using Stripe API.  Users can sort songs by artist, genre or album and song data is stored in an SQL database.",
-      "technologies": ["ReactJS", "MySQL", "Express", "NodeJS"],
-      "live_link": "http://spotify-client-jlutz.herokuapp.com/",
-      "github_link": "https://github.com/CoderGuy614/07-Spotify-Client",
+      "project_name": "Online Store",
+      "description": "This full stack app uses MongoDB to hold data about products that users can view photos of and add to their shopping basket.  The front end uses Material UI components to give it a clean and responsive look.",
+      "technologies": ["ReactJS", "MongoDB", "Express", "NodeJS"],
+      "live_link": "http://cambocraft-shop.herokuapp.com/",
+      "github_link": "https://github.com/CoderGuy614/CamboCraft-Client",
       "image_urls": ["/images/project_13_1.jpg"]
     },
     {

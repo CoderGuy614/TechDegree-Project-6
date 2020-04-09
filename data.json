@@ -92,6 +92,15 @@
       "live_link": "https://todo-list-jonathanlutz.herokuapp.com",
       "github_link": "https://github.com/CoderGuy614/03-todo-list-api",
       "image_urls": ["/images/project_9_1.jpg"]
+    },
+    {
+      "id": 13,
+      "project_name": "Spotify Clone",
+      "description": "A music player, complete with integrated credit card payment using Stripe API.  Users can sort songs by artist, genre or album and song data is stored in an SQL database.",
+      "technologies": ["ReactJS", "MySQL", "Express", "NodeJS"],
+      "live_link": "http://spotify-client-jlutz.herokuapp.com/",
+      "github_link": "https://github.com/CoderGuy614/07-Spotify-Client",
+      "image_urls": ["/images/project_13_1.jpg"]
     }
   ]
 }
