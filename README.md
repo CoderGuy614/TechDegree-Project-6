@@ -1,4 +1,5 @@
-# TechDegree-Project-6
+# Thank you for checking out my portfolio!  
+
  Express Portfolio App
     Styling changes include:  
         1) Added gray background with hover effect and box shadows to the the project names on the index page.
